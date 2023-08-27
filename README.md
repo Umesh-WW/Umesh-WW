@@ -11,12 +11,18 @@ Hello there! 👋 I'm Umesh, a software developer passionate about Programming, 
 
 ## Tech Stack
 
-- 💻 Programming Languages: [Languages]
-- 🌐 Web Technologies: [Technologies]
-- 🛢️ Databases: [Databases]
-- ⚙️ Tools: [Tools]
-- 📚 Frameworks: [Frameworks]
-- 
+- 💻 Programming Languages:  HTML/CSS, JavaScript, TypeScript, SQL, Python, C/C++ , MATLAB(Basic)
+
+- 🌐 Web Technologies:       Angular, Express.js, React, Node.js, Bootstrap, Material-UI, Jest,enzyme, Karma, Mocha, Axios, Lodash, Moment.js, Chart.js, Tailwind CSS, React Router,
+                             Styled Components, Formik,React-hook-form,Yup, Redux, Angular Material, RxJS,jest-cucumber,
+                              pandas(Basic), NumPy(Basic), Matplotlib(Basic), TensorFlow(Basic), Keras(Basic), 
+
+- 🛢️ Databases:   MongoDB, PostgreSQL, MySQL
+  
+- ⚙️ Tools:       JIRA, Trello, Postman, Git, Github, Docker(Basic),  BitBucket, Linux
+
+- 📚 Frameworks:  CLI(Basic), Jupyter Notebook, Google Cloud Platform, Grafana, VS Code, PyCharm, keil uVision5(Basic), ROS(Basic),
+                  Sonarqube, LTspice(Basic)
 ## GitHub Stats
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umesh-WW&show_icons=true&theme=dark)
