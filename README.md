@@ -6,7 +6,7 @@ Hello there! 👋 I'm Umesh, a software developer passionate about Programming, 
 
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate on FE(nextjs).
-- ⚡ Fun fact: [fun_fact].
+- ⚡ Fun fact: 0.001% to 0.002% is it 0.001% increase or 100% increase.
 
 
 ## Tech Stack
