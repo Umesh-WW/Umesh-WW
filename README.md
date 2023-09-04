@@ -4,18 +4,18 @@
 
 Hello there! 👋 I'm Umesh, a software developer passionate about Programming, Web, and Math. I love to explore new technologies and contribute to open-source projects.
 
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m currently learning Node.js and working on building my portfolio.
 - 👯 I’m looking to collaborate on FE(nextjs).
-- ⚡ Fun fact: 0.001% to 0.002% is it 0.001% increase or 100% increase.
+- ⚡ Fun fact: 0.001% to 0.002% is it a 0.001% increase or a 100% increase. think it.
 
 
 ## Tech Stack
 
-- 💻 Programming Languages:  HTML/CSS, JavaScript, TypeScript, SQL, Python, C/C++ , MATLAB(Basic)
+- 💻 Programming Languages:  HTML/CSS, JavaScript, TypeScript, SQL, Python, C/C++, MATLAB(Basic)
 
-- 🌐 Web Technologies:       Angular, Express.js, React, Node.js, Bootstrap, Material-UI, Jest,enzyme, Karma, Mocha, Axios, Lodash, Moment.js, Chart.js, Tailwind CSS, React Router,
-                             Styled Components, Formik,React-hook-form,Yup, Redux, Angular Material, RxJS,jest-cucumber,
-                              pandas(Basic), NumPy(Basic), Matplotlib(Basic), TensorFlow(Basic), Keras(Basic), 
+- 🌐 Web Technologies:       Next.js, Angular, Express.js, React, Node.js, Bootstrap, Material-UI, Jest, enzyme, Karma, Mocha, Axios, Lodash, Moment.js, Chart.js, Tailwind CSS, React 
+                             Router, Styled Components, Formik, React-hook-form, Yup, Redux, Angular Material, RxJS,jest-cucumber,
+                             pandas(Basic), NumPy(Basic), Matplotlib(Basic), TensorFlow(Basic), Keras(Basic), 
 
 - 🛢️ Databases:   MongoDB, PostgreSQL, MySQL
   
