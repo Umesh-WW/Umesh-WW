@@ -33,5 +33,5 @@ Hello there! 👋 I'm Umesh, a software developer passionate about Programming, 
 Let's chat! You can find me on:
 
 - [Twitter](https://twitter.com/your-twitter-handle)
-- [LinkedIn](https://www.linkedin.com/in/umesh-ww/)
+<!--  [LinkedIn](https://www.linkedin.com/in/umesh-ww/) -->
 - [Personal Website](https://www.your-website.com)
