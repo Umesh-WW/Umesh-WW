@@ -5,7 +5,7 @@
 Hello there! 👋 I'm Umesh, a software developer passionate about Programming, Web, and Math. I love to explore new technologies and contribute to open-source projects.
 
 - 🌱 I’m currently learning Node.js and working on building my portfolio.
-- 👯 I’m looking to collaborate on FE(nextjs).
+- 👯 I’m looking to collaborate on FE(nextjs) and nodeJs.
 - ⚡ Fun fact: 0.001% to 0.002% is it a 0.001% increase or a 100% increase. think it.
 
 
