@@ -1,5 +1,5 @@
-# [Umesh Savaliya]
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/Umesh-WW)
+# [Chirag Savaliya]
+[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/Savaliya-WW)
 [![Twitter Follow](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 
 Hello there! 👋 I'm Umesh, a software developer passionate about Programming, Web, and Math. I love to explore new technologies and contribute to open-source projects.
@@ -25,7 +25,7 @@ Hello there! 👋 I'm Umesh, a software developer passionate about Programming, 
                   Sonarqube, LTspice(Basic)
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umesh-WW&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Savaliya-WW&show_icons=true&theme=dark)
 
 
 ## Connect with Me
